@@ -323,22 +323,18 @@ Potential enhancements:
 
 Branch based on flags, stats, inventory, alignment, etc.
 
-### **2. Visual Dialogue Editor**
-
-A graph-based tool for editing conversations and branches.
-
-### **3. Localization / String Tables**
+### **2. Localization / String Tables**
 
 Full multi-language support.
 
-### **4. Cutscene Integration**
+### **3. Cutscene Integration**
 
-Timeline / Camera motion / Character animations.
+Combat system triggered conversation.
 
-### **5. Save/Load Integration**
+### **4. Save/Load Integration**
 
 Persist `HasPlayed` and narrative progress.
 
-### **6. Multi-path Narrative Tracking**
+### **5. Multi-path Narrative Tracking**
 
 Record player choices for long-term consequences.
