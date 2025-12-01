@@ -188,10 +188,8 @@ Responsible for executing the logic defined in a **SkillSO**.
 
 ### **Customizable Gear**
 
-* Sockets & upgrade gems
-* Stat-based affixes
-* Randomized modifiers
-
+* Changeable CardSO
+  
 ### **Active Abilities**
 
 Support gear-granted **skills with cooldowns**, independent of cards.
