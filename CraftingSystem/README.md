@@ -251,4 +251,3 @@ Used for loading all possible recipe datas.
 
 * Skill tree unlocks
 * Discoverable recipes
-* Recipe rarity tiers
